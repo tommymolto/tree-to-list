@@ -1,12 +1,21 @@
 {
-  "name": "tree-to-list",
+  "name": "@tommymolto/tree-to-list",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "Paulo Marinho",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tommymolto/tree-to-list.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tommymolto/tree-to-list/issues"
+  },
+  "homepage": "https://github.com/tommymolto/tree-to-list#readme",
+  "description": "",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
