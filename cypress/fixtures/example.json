@@ -1,0 +1,86 @@
+[
+  {
+    "ID_TOGGLE": 1635242,
+    "ID_TOGGLEPAI": 2,
+    "VL_TOGGLE": "seguros_multicanais",
+    "ID_TIPOTOGGLE": 2,
+    "DH_ALTVALORTOGGLE": "2019-10-15T17:16:58.303Z",
+    "FG_APROV": true,
+    "VL_TOGGLEPUBL": "seguros_multicanais",
+    "DH_PUBL": "2020-03-31T13:14:00.583Z",
+    "FG_EXCL": false,
+    "LEVELOF": 1
+  },
+  {
+    "ID_TOGGLE": 1635244,
+    "ID_TOGGLEPAI": 1635242,
+    "VL_TOGGLE": null,
+    "ID_TIPOTOGGLE": 4,
+    "DH_ALTVALORTOGGLE": "2019-10-15T17:16:58.303Z",
+    "FG_APROV": true,
+    "VL_TOGGLEPUBL": null,
+    "DH_PUBL": "2020-03-31T13:14:00.583Z",
+    "FG_EXCL": false,
+    "LEVELOF": 2
+  },
+  {
+    "ID_TOGGLE": 1635245,
+    "ID_TOGGLEPAI": 1635242,
+    "VL_TOGGLE": null,
+    "ID_TIPOTOGGLE": 5,
+    "DH_ALTVALORTOGGLE": "2019-10-15T17:16:58.303Z",
+    "FG_APROV": false,
+    "VL_TOGGLEPUBL": null,
+    "DH_PUBL": null,
+    "FG_EXCL": false,
+    "LEVELOF": 2
+  },
+  {
+    "ID_TOGGLE": 1635246,
+    "ID_TOGGLEPAI": 1635242,
+    "VL_TOGGLE": null,
+    "ID_TIPOTOGGLE": 7,
+    "DH_ALTVALORTOGGLE": "2019-10-15T17:16:58.303Z",
+    "FG_APROV": false,
+    "VL_TOGGLEPUBL": null,
+    "DH_PUBL": null,
+    "FG_EXCL": false,
+    "LEVELOF": 2
+  },
+  {
+    "ID_TOGGLE": 1635247,
+    "ID_TOGGLEPAI": 1635246,
+    "VL_TOGGLE": "1",
+    "ID_TIPOTOGGLE": 8,
+    "DH_ALTVALORTOGGLE": "2019-10-15T17:17:37.367Z",
+    "FG_APROV": false,
+    "VL_TOGGLEPUBL": null,
+    "DH_PUBL": null,
+    "FG_EXCL": false,
+    "LEVELOF": 3
+  },
+  {
+    "ID_TOGGLE": 1635248,
+    "ID_TOGGLEPAI": 1635247,
+    "VL_TOGGLE": "true",
+    "ID_TIPOTOGGLE": 9,
+    "DH_ALTVALORTOGGLE": "2020-03-31T13:18:03.453Z",
+    "FG_APROV": true,
+    "VL_TOGGLEPUBL": "true",
+    "DH_PUBL": "2020-03-31T13:18:26.157Z",
+    "FG_EXCL": false,
+    "LEVELOF": 4
+  },
+  {
+    "ID_TOGGLE": 1635249,
+    "ID_TOGGLEPAI": 1635247,
+    "VL_TOGGLE": null,
+    "ID_TIPOTOGGLE": 10,
+    "DH_ALTVALORTOGGLE": "2019-10-15T17:17:37.367Z",
+    "FG_APROV": false,
+    "VL_TOGGLEPUBL": null,
+    "DH_PUBL": null,
+    "FG_EXCL": false,
+    "LEVELOF": 4
+  }
+]
