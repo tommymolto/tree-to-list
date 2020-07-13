@@ -19,6 +19,11 @@
   "homepage": "https://github.com/tommymolto/tree-to-list#readme",
   "description": "",
   "devDependencies": {
-    "cypress": "^4.10.0"
+    "@compodoc/compodoc": "^1.1.11",
+    "@cypress/code-coverage": "^3.8.1",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "cypress": "^4.10.0",
+    "istanbul-lib-coverage": "^3.0.0",
+    "nyc": "^15.1.0"
   }
 }
