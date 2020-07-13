@@ -17,5 +17,7 @@
   },
   "homepage": "https://github.com/tommymolto/tree-to-list#readme",
   "description": "",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "devDependencies": {
+    "cypress": "^4.10.0"
+  }
 }
