@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1594670235058" clover="3.2.0">
+  <project timestamp="1594670235058" name="All files">
+    <metrics statements="13" coveredstatements="13" conditionals="5" coveredconditionals="4" methods="4" coveredmethods="4" elements="22" coveredelements="21" complexity="0" loc="13" ncloc="13" packages="1" files="1" classes="1"/>
+    <file name="treetolist.js" path="C:\Users\paulo.marinho\WebstormProjects\tree-to-list\treetolist.js">
+      <metrics statements="13" coveredstatements="13" conditionals="5" coveredconditionals="4" methods="4" coveredmethods="4"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="7" count="7" type="stmt"/>
+      <line num="8" count="7" type="stmt"/>
+      <line num="10" count="24" type="stmt"/>
+      <line num="12" count="7" type="cond" truecount="4" falsecount="0"/>
+      <line num="13" count="3" type="stmt"/>
+      <line num="14" count="14" type="stmt"/>
+      <line num="15" count="3" type="stmt"/>
+      <line num="16" count="6" type="stmt"/>
+      <line num="18" count="6" type="stmt"/>
+      <line num="20" count="3" type="stmt"/>
+      <line num="22" count="4" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
