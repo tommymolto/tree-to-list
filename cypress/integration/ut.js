@@ -25,5 +25,8 @@ it('cy.fixture or require', function () {
     console.log('x=',x);
     console.log('this.retorno=',this.retorno);
     console.log(JSON.stringify(x) === JSON.stringify(this.retorno) );
-    expect(JSON.stringify(x) ).to.be.equal(JSON.stringify(this.retorno) );
+    cy.server()
+        .then((win) => {
+            expect(JSON.stringify(x) ).to.be.equal(JSON.stringify(this.retorno) );
+        });
 })

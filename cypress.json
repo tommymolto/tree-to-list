@@ -1,1 +1,4 @@
-{}
+{
+  "fixturesFolder": "cypress/fixtures",
+  "pluginsFile": "cypress/plugins/index.js"
+}
